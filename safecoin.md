@@ -4,7 +4,7 @@ date: "2021-3-10"
 title: "SafeCoin"
 logline: "SafeCoin is a decentralized, fair-launch friendly fork of Solana, taking the industry-leading Solana Tech and making is accessible to all."
 cta: "https://safecoin.org/"
-logo: /img/safecoin.svg
+logo: /img/safecoin.png
 category: infra, defi
 status: live
 website: https://safecoin.org/
